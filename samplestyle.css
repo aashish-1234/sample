@@ -9,7 +9,7 @@
 }
 #inner_main{
     width: 70%;
-    border: 1px solid brown;
+/*     border: 1px solid brown; */
     padding: 10px;
     box-sizing: border-box;
 }
