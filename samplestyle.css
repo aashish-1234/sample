@@ -67,8 +67,8 @@
     #inner_main{
         width: 100%;
     }
-#inner_main p,h2,table tr,th,td{
-        font-size: 2vw;
+	 #inner_main p,table tr,td{
+        font-size: 3vw;
     }
 	
 }
